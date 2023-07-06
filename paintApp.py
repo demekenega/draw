@@ -37,7 +37,7 @@ class PaintApp(Tk):
                            "#A52A2A", "#800000", "#FFFFFF", "#FFFAFA", "#F0FFF0", "#F5FFFA", "#F0FFFF", "#F0F8FF",
                            "#F8F8FF", "#F5F5F5", "#F5F5F5", "#F5F5DC", "#FDF5E6", "#FFFAF0", "#FFFFF0", "#FAEBD7",
                            "#FAF0E6", "#FFF0F5", "#FFE4E1", "#DCDCDC", "#D3D3D3", "#C0C0C0", "#A9A9A9", "#808080",
-                           "#696969", "#778899", "#708090", "#2F4F4F", "#000000"]
+                           "#696969", "#778899", "#708090", ]
 
         self.createColorBar()
 
